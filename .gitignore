@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# New search outputs (keep finished examples in examples/ instead)
+results/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
